@@ -16,6 +16,8 @@
 		<module>common-module</module>
 		<module>config-server</module>
 		<module>user-service</module>
+		<module>page-service</module>
+
 	</modules>
 
 	<parent>
