@@ -11,11 +11,11 @@
 	<name>project</name>
 	<description>Demo project for Spring Boot</description>
 
-	<!--<modules>-->
-		<!--<module></module>-->
-		<!--<module></module>-->
-		<!--<module></module>-->
-	<!--</modules>-->
+	<modules>
+		<module>eureka</module>
+		<module></module>
+		<module></module>
+	</modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
