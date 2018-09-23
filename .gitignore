@@ -16,3 +16,4 @@ gen
 *.zip
 *.tar.gz
 *.rar
+*.mvn
