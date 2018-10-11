@@ -17,6 +17,7 @@
 		<module>config-server</module>
 		<module>user-service</module>
 		<module>page-service</module>
+		<module>gateway-server</module>
 
 	</modules>
 
